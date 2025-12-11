@@ -1,7 +1,7 @@
 # Edge Intelligence in Space Exploration
 ### By Ezike Kensimon
 
-[Download Full Paper (PDF)](Kensimon Ezike Edge Intelligence In Space Exploration research.pdf)
+[Download Full Paper (PDF)](Kensimon-Ezike-Edge-Intelligence-In-Space-Exploration-research.pdf)
 
 ---
 
