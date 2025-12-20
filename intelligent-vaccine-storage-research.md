@@ -1,7 +1,7 @@
 # Intelligent Solar-Powered Immunization Vaccine Storage System
 ### By Ezike Kensimon
 
-[Download Full Paper (PDF)](Kensimon-Ezike-Edge-Intelligence-In-Space-Exploration-research.pdf)
+[Download Full Paper (PDF)](Kensimon-Ezike-Intelligent-vaccine-storage-research.pdf)
 
 ---
 
